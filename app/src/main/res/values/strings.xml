@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ContactsCW</string>
+    <string name="developer">Разработал Бисиров А.В. РИБО-02-22</string>
+    <string name="authText">Авторизация</string>
+    <string name="username">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="loginbtn">Войти</string>
+    <string name="errorText" />
+    <string name="numbernametext">Номер телефона:</string>
+    <string name="dateofbirthday">Дата рождения</string>
+    <string name="call">Позвонить</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="name">ФИО</string>
+    <string name="savebtn">Сохранить</string>
+    <string name="number">Номер телефона</string>
+    <string name="cnclbtn">Отмена</string>
+    <string name="urlAvatar">URL аватарки</string>
+    <string name="confirmText">Вы уверены?</string>
+    <string name="confirm">Да</string>
+    <string name="cancel">Отменить</string>
+    <string name="saveLoginData">Запомнить</string>
+    <string name="share">Поделиться</string>
+    <string name="errorNoLoginPassword">Введите логин и пароль</string>
+    <string name="errorConnectServer">Ошибка соеденения с сервером</string>
+    <string name="enterIsSuccessfull">Вход выполнен успешно</string>
+    <string name="errorWrongInput">Неправильный логин или пароль</string>
+    <string name="errorColision">Данный номер уже существует</string>
+    <string name="errorNoNameAndNumber">Введите имя и номер телефона</string>
+    <string name="update">Обновление</string>
+</resources>
